@@ -1,8 +1,9 @@
 RECORDER APP FOR UBUNTU
 ----------------------
 
-Its a simple Micrecorder app that works in ubuntu . Created out of frustration due to lack of apps for recording mic input in Software center (13.10)
+Its a simple Micrecorder app that works in ubuntu . Software center has almost 0 voice recording apps ! 
 It works (in ubuntu) !
+
 Hope other disgruntled users find solace here :)
 
-Dependencies on pyaudio
+Dependencies on pyaudio,Tkinter
